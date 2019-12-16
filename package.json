@@ -1,0 +1,7 @@
+{
+  "name": "frontend-assembly-demo",
+  "version": "1.0.0",
+  "main": "scripts/index.js",
+  "author": "Nikita Bezdolniy",
+  "license": "MIT"
+}
