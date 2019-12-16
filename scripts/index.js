@@ -1,7 +1,9 @@
+import _ from 'lodash';
+
 function component() {
     const element = document.createElement('div');
 
-    // Мы используем lodash underscore, в надежде, что он был импортирован
+    // Теперь underscore действительно импортирован прям в этом файле
     element.innerHTML = _.join(['Hello', 'webpack'], ' ');
 
     return element;
